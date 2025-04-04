@@ -1,3 +1,3 @@
-def call(String message) {
-    echo "This is a shared step. Message: ${message}"
+def call() {
+    echo "welcome to shared library"
 }
